@@ -1,0 +1,9 @@
+G:\Dotnet\CalDemo\CalDemoTest\bin\Debug\CalDemoTest.dll
+G:\Dotnet\CalDemo\CalDemoTest\bin\Debug\CalDemoTest.pdb
+G:\Dotnet\CalDemo\CalDemoTest\bin\Debug\CalDemo.exe
+G:\Dotnet\CalDemo\CalDemoTest\bin\Debug\nunit.framework.dll
+G:\Dotnet\CalDemo\CalDemoTest\bin\Debug\CalDemo.pdb
+G:\Dotnet\CalDemo\CalDemoTest\bin\Debug\nunit.framework.xml
+G:\Dotnet\CalDemo\CalDemoTest\obj\Debug\CalDemoTest.csprojResolveAssemblyReference.cache
+G:\Dotnet\CalDemo\CalDemoTest\obj\Debug\CalDemoTest.dll
+G:\Dotnet\CalDemo\CalDemoTest\obj\Debug\CalDemoTest.pdb
